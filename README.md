@@ -156,7 +156,7 @@ ollama pull <model-name>
 Example:
 
 ```bash
-ollama pull llama3.2
+ollama pull ollama3.2
 ```
 
 ---
